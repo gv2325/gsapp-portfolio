@@ -2,7 +2,7 @@
 layout: post
 title: About
 ---
-This is an archive of projects by George Verghese created within the [MS Computational Design Practices](www.google.com) program at [GSAPP, Columbia University](www.columbiagsapp.com)
+This is an archive of projects by George Verghese created within the [MS Computational Design Practices](https://www.google.com) program at [GSAPP, Columbia University](www.columbiagsapp.com)
 
 George is currently an incoming summer teaching associate for the MS CDP programs summer semester, with a specialisation in mapping and data. 
 
