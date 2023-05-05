@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Energy-Saving Curtain Wall Installation and Control
-author: Haojun Wang
+title: Tommorrow.io
+author: Entrepreneurial Strategies
 year: 2023
 ---

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Hyper Local Food Movement
-author: Letizia Campo
+title: Analysing the urban tech Ecosystem in NYC
+author: Urban Tech
 year: 2023
 ---

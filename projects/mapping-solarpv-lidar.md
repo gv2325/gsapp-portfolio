@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Playing With Natural Materials
-author: Neil Potnis
+title: Solar Potential in the City
+author: Sustainable Development
 year: 2023
 ---

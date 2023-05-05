@@ -1,9 +1,8 @@
 ---
 layout: project
-title: "BlindEye: A Collective Area Network"
-author: George Verghese
+title: Dynamic Packing ALgorithm
+author: Design AI
 year: 2023
-image: /img/coverImage_blindeye
 ---
 
 ![Current State of Geolocation](/img/currentState_blindeye)

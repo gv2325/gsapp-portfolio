@@ -1,7 +1,7 @@
 ---
 layout: project
-title: An Example Project
-author: Seth Thompson
+title: CDR Data in Milan
+author: Future Mobility
 year: 2023
 ---
 

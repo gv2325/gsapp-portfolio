@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Public Wifi, Surveillance, and the Digital Divide
-author: Eddie Joe Antonio
+title: Dasher
+author: Responsive Architecture
 year: 2023
 ---

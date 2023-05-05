@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Jetson Nano
-author: Test
+title: Blue Dot
+author: Data Visualisation
 year: 2023
 ---

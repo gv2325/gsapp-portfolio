@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Decentralized Clocks
-author: Saralee Sittigaroon
+title: Heatbodies
+author: Urban Sensing
 year: 2023
 ---

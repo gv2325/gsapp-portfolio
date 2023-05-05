@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Unpredictable Atmosphere
-author: Lucia Rebolino
+title: Matching Housing prices with Distance
+author: Urban Analytics
 year: 2023
 ---

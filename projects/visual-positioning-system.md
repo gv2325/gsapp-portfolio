@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Memory Palace
-author: Ziyu Zhang
+title: "VPS: Augmenting Google Maps Accuracy"
+author: Independent Research Proposal
 year: 2023
 ---

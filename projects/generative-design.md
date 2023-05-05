@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Green Card Buildout
-author: Hsiang Hsi Lu
+title: Optimising the Manhattan Block
+author: Generative Design
 year: 2023
 ---

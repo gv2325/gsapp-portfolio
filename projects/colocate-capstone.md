@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Measure Unmeasurable
-author: Junling Zhuang
+title: Colocate
+author: Colloquium
 year: 2023
 ---
