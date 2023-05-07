@@ -1,4 +1,4 @@
 ---
 layout: home
-title: George Verghese Project Archive
+title: GSAPP Project Archive
 ---

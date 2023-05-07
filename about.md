@@ -2,9 +2,13 @@
 layout: post
 title: About
 ---
-This is an archive of projects by George Verghese created within the [MS Computational Design Practices](https://www.google.com) program at [GSAPP, Columbia University](www.columbiagsapp.com)
+This is an archive of student final projects from the [Computation Design Practices](https://www.arch.columbia.edu/programs/15-m-s-computational-design-practices) degree program at [Columbia GSAPP](https://www.arch.columbia.edu/).
 
-George is currently an incoming summer teaching associate for the MS CDP programs summer semester, with a specialisation in mapping and data. 
+Computation Design Practices is an innovative program for recent graduates and practitioners that extends and integrates
+disciplines between architecture, data visualization, and urban planning—focusing specifically on computational design
+practices for the built environment at multiple scales. It aims to pioneer new concepts and pedagogies for an integrated
+multi-scalar and spatial approach to computational design at Columbia GSAPP. The M.S.CDP curriculum encourages critical and
+creative engagement with spatial computational design as both method and practice.
 
 This website is open source. The source code can be found on GitHub. It was built with the static site generator
 [Eleventy](https://www.11ty.dev/docs/). Site content is written in [Markdown](https://www.markdownguide.org/)
