@@ -3,7 +3,7 @@ layout: project
 title: Heatbodies
 author: Sensing
 year: 2023
-image: /img/coverImage_heatbodies
+image: public\img\heatbodies_cover.png
 links:
     - title: "Project Website"
         url: "https://urbandata.me/measuringhome2023/2023/05/02/heat-bodies/"
