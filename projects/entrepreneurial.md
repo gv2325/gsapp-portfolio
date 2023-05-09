@@ -15,11 +15,11 @@ links:
 Choices in Entrepreneurial Strategy
 
 Customer:
-Tomorrow chose to stick to serving a general customer base even if that meant letting go of larger revenue streams. The leadership's commitment to building a general-purpose weather technology meant that customizing or the need to diverge significant resources to a single client would not be ideal. Tomorrow’s business is predominantly B2B serving an enterprise stack which means that the loss of a large customer would make a significant impact on their bottom line. The company had never had a single industry serve more than 10% of its revenue. It goes without saying it also shows the wide array of applications and client base interested in weather data. 
+Tomorrow[^1] chose to stick to serving a general customer base even if that meant letting go of larger revenue streams. The leadership's commitment to building a general-purpose weather technology meant that customizing or the need to diverge significant resources to a single client would not be ideal. Tomorrow’s business is predominantly B2B serving an enterprise stack which means that the loss of a large customer would make a significant impact on their bottom line. The company had never had a single industry serve more than 10% of its revenue. It goes without saying it also shows the wide array of applications and client base interested in weather data. 
 
 There is a conscious effort also to ensure that the investors it brought on board aligned with its vision to build and execute a service unlike any other, which meant giving up on serving large clients with customized needs. However, Tomorrow did not always lose the client but rather managed to convert the client by changing the term sheet and negotiating on delivery of its service to the client.
 
-Serve a general client base and focus on core technology.
+Serve a general client base and focus on core technology[^2].
 
 Technology:
 Tomorrow made a conscious effort to develop its product through academically achieved employees. In its first 40 or so odd employees, it hired experts, including machine learning, remote sensing, and aerospace engineers. A strategic advantage, Tomorrow found an underserved area in an industry faced with issues in the decades-old technology that was being used to predict the weather. Tomorrow built a flexible and robust product workflow. However, it knew the tradeoffs in not owning the infrastructure at the time and used multiple data sources to augment and create a minimum viable product.
