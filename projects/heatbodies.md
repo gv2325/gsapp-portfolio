@@ -4,6 +4,9 @@ title: Heatbodies
 author: Sensing
 year: 2023
 image: \img\heatbodies_cover.png
+link:
+    - text: Project Website
+    url: https://sensinglab.io/heatbodies/
 ---
 
 ![Avery100](\img\heatbodies_cover.png)
