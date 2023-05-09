@@ -4,9 +4,15 @@ title: Heatbodies
 author: Sensing
 year: 2023
 image: \img\heatbodies_cover.png
+links:
+    - 
+        name: Github
+        url: www.github.com
 ---
 
-![Avery100](\img\heatbodies_cover.png)
+<img src = "public\img\heatbodies_cover.png">
+<br><br\>
+
 ## Sensing in the Public Domain
 
 Sensing has become an important and rapidly demanded method of understanding our built environment. Be it from understanding the energy performance at a building scale to using footpaths on the street. These demands come from increasing efficiency, optimizing performance, and creating a path forward backed by empirical evidence. This brings to question the policies, methods, and goals of sensing in today’s urban environment.
