@@ -3,13 +3,15 @@ layout: project
 title: "Heat Bodies"
 author: Urban Sensing and Data
 year: 2023
-image: <img src ="public\img\colocate_coverimage.png">
+image: /img/colocate_coverimage.png
 links:
     -
       text: Project Website
       url: https://urbandata.me/measuringhome2023/2023/05/02/heat-bodies/
 ---
-![Heat Bodies Trails](\img\heatbodies_trails.png)
+![Heat Bodies Trails](/img/heatbodies_trails.png)
+
+<img src="\img\heatbodies_trails.png" style="width:100%">
 ### Sensing in the Public Domain
 
 Sensing has become an important and rapidly demanded method of understanding our built environment. Be it from understanding the energy performance at a building scale to using footpaths on the street. These demands come from increasing efficiency, optimizing performance, and creating a path forward backed by empirical evidence. This brings to question the policies, methods, and goals of sensing in today’s urban environment.
