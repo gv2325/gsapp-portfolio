@@ -9,9 +9,9 @@ links:
       text: Project Website
       url: https://urbandata.me/measuringhome2023/2023/05/02/heat-bodies/
 ---
-![Colocate](/img/colocate_coverimage.png)
+![Heat Bodies Trails](\img\heatbodies_trails.png)
+### Sensing in the Public Domain
 
-Sensing in the Public Domain
 Sensing has become an important and rapidly demanded method of understanding our built environment. Be it from understanding the energy performance at a building scale to using footpaths on the street. These demands come from increasing efficiency, optimizing performance, and creating a path forward backed by empirical evidence. This brings to question the policies, methods, and goals of sensing in today’s urban environment.
 
 A lot of what we call “tech” today lies within device-level applications. However, urban tech operates in a grey and currently undefined area. The device layer is the city, and the applications are the deployments of sensors within the device. However, no individual user within the device can make decisions on data governance; it lies either with the city or with the urban tech company’s altruism. We must then demand and understand how we think of privacy policies in the public domain. Is it a generic privacy agreement each citizen signs, or perhaps at the sensor level with every possible attempt to preserve privacy made?
