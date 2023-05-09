@@ -3,11 +3,11 @@ layout: project
 title: "Heat Bodies"
 author: Urban Sensing and Data
 year: 2023
-image: public\img\colocate_coverimage.png
+image: \img\colocate_coverimage.png
 links:
     -
-      text: Learn More
-      url: https://colocate.vercel.app/
+      text: Project Website
+      url: https://urbandata.me/measuringhome2023/2023/05/02/heat-bodies/
 ---
 
 Sensing in the Public Domain
