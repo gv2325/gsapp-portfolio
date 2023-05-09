@@ -1,19 +1,13 @@
 ---
 layout: project
-title: "Colocate: A Collective Area Network"
-author: George Verghese
+title: "Heat Bodies"
+author: Urban Sensing and Data
 year: 2023
 image: public\img\heatbodies_cover.png
 links:
     -
       text: Learn More
       url: https://colocate.vercel.app/
-    -
-      text: Alternatives
-      url: https://gv2325.github.io/image-of-a-city/
-    -
-      text: Github
-      url: https://github.com/gv2325/colocate
 ---
 
 Sensing in the Public Domain
