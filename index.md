@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Computational Design Practices Project Archive
+title: George Verghese Project Archive
 ---

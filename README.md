@@ -1,21 +1,11 @@
 # Computational Design Practices Project Archive
 
-This respository hosts the source code and site content for the [Computational Design Practices](https://www.arch.columbia.edu/programs/15-m-s-computational-design-practices) project archive.
+This respository hosts the source code and site content for [George Verghese's](www.george-verghese.com) project archive.
 
 This site is built with the static site generator [Eleventy](https://www.11ty.dev/docs/).
 Site content is written in [Markdown](https://www.markdownguide.org/) and rendered with additional
 support for [footnotes](https://github.com/markdown-it/markdown-it-footnote) and
 [implicit figures](https://github.com/arve0/markdown-it-implicit-figures).
-
-## Development
-
-```
-npm install
-npm run start
-```
-
-Browse to [http://localhost:8080/](http://localhost:8080/) (port 8080 is default but it will switch
-to a new port if that one is taken, so use whatever port shows up when you run the `--serve` command).
 
 
 ## Directory Structure
@@ -53,7 +43,7 @@ Projects should have the following [YAML](https://yaml.org/) frontmatter:
 ---
 layout: project
 title: "Example Project: My Subtitle"
-author: Seth Thompson
+author: George Verghese
 year: 2023
 image: /img/diomede-islands.jpg #optional
 ---
