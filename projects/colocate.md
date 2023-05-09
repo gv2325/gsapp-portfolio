@@ -9,7 +9,7 @@ links:
       text: Project Website
       url: https://gsapp-cdp.github.io/archive/projects/colocate/
 ---
-![Heat Bodies Trails](public\img\colocate_conceptimage.png)
+![Product Prototype](/img/colocate_conceptimage.png)
 ### Localisation Goes Social
 
 Colocate is a peer-to-peer based 3D spatial user expereince system that puts privacy at the forefront for its users.
