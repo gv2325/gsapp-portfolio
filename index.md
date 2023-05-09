@@ -1,4 +1,4 @@
 ---
 layout: home
-title: GSAPP Project Archive
+title: Computational Design Practices Project Archive
 ---
