@@ -3,7 +3,7 @@ layout: project
 title: "Heat Bodies"
 author: Urban Sensing and Data
 year: 2023
-image: /img/heatbodies_trails.png
+image: /img/heatbodies_coverimage.png
 links:
     -
       text: Project Website
