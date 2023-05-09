@@ -3,7 +3,7 @@ layout: project
 title: "Colocate: A Collective Area Network"
 author: George Verghese
 year: 2023
-image: /img/colocate_coverimage.png
+image: public\img\heatbodies_cover.png
 links:
     -
       text: Learn More
@@ -16,16 +16,11 @@ links:
       url: https://github.com/gv2325/colocate
 ---
 
-![Colocate](/img/colocate_coverimage.png)
+Sensing in the Public Domain
+Sensing has become an important and rapidly demanded method of understanding our built environment. Be it from understanding the energy performance at a building scale to using footpaths on the street. These demands come from increasing efficiency, optimizing performance, and creating a path forward backed by empirical evidence. This brings to question the policies, methods, and goals of sensing in today’s urban environment.
 
-### Localisation gets social.
+A lot of what we call “tech” today lies within device-level applications. However, urban tech operates in a grey and currently undefined area. The device layer is the city, and the applications are the deployments of sensors within the device. However, no individual user within the device can make decisions on data governance; it lies either with the city or with the urban tech company’s altruism. We must then demand and understand how we think of privacy policies in the public domain. Is it a generic privacy agreement each citizen signs, or perhaps at the sensor level with every possible attempt to preserve privacy made?
 
-Colocate is a peer-to-peer based 3D spatial user expereince system that puts privacy at the forefront for its users.
+Our team chose to test what it would require to develop and design a sensor with privacy in mind. Setting out to solve this problem, we took an interest in understanding what activities and flows in our public space are like. This process required understanding how much data is needed, our end-use cases, and potential sensors.
 
-Colocate was made to seamlessly blend the spatial experience between the indoor and outdoor in our built environment. It allows users to have agency over their privacy policies with a single time setup, users can choose to create, govern and share their data at their will, an option that currently does not exist within the wayfinding ecosystem in the world today. Using cutting edge ultra-wide band based spatial localisation each peer network creates its own network closed off from a single point of governance. This method creates the opportunity for data and infrastructure redundancy at a very low cost of entry. Built of the idea of decentralised and collective decision making; Colocate creates a collective area network, it only communicates as far as its networks proximity and hardware capability. Each user creates a social and economic based network and uses this network and its spatial schema to geolocate themselves within that network. It is a social method of locating, sharing and creating spatial experiences.
-
-Colocate sensors exist within ubiquitously in our devices today, some companies have their own names for this chip (Apple calls it the U1 chip, present in your phones and airtags). Colocate utilises the existing infrastructure to create a spatial method of social networks. Each user may have more than one network and each network has its own rules on privacy and localisation. Imagine a network being categorised into options such as grocery stores, biking group, office friends etc. Each of these have a different social reflection and level of sharing. Your grocery store only needs it within the store to create a joyful expereince of locating you in 3D space in the store to be able to bill and check out the items in your cart without ever needing a cashier (Amazon GO), however the technology can quickly be accessible to mom and pop stores at a low cost and without the need for all the sensor fusion. Without having to think twice about the privacy implications and the bias that exists within current computer vision systems and hardware, users are not discriminated or exposed to potential risks.
-
-But why does any of this matter? Our world is rapidly urbanising at a speed and scale where we have subterresterial networks (subways etc) to large massing structures to autonomous vehicles. The way we interact and expereince our urban built environment is changing. Current systems like Maps etc will not be able to meet the needs of the future of computing our built environment and will needs ways of augmenting the way we interact with our built environment. Colocate is a step towards that future.
-
-Refer: Visual Positioning System - Google's way of augmenting localisation in the built environment.
+Through an iterative process, we realized that privacy through software alone was not entirely perfect, and it required a hardware level of intervention. We aimed to implement a thermal sensor built with an edge compute node that can quickly process and out binary data without ever requiring raw data storage. Using existing computer vision algorithms to create human tracks, we set out to understand and enumerate our public spaces within Avery Hall. Through experimentation and analysis, we tested and learnt of the costs and benefits of using such hardware in our public domain.
