@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Tomorrow.io"
-author: Entrepreneurial Strategies
+author: Strategy
 year: 2023
 image: /img/tomorrow_coverimage.png
 links:

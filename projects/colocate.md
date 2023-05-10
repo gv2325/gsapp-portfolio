@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Colocate"
-author: Colloquium
+title: "Colocate: A Collective Area Network"
+author: Research
 year: 2023
 image: /img/colocate_coverimage.png
 links:

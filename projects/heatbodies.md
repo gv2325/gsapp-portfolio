@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Heat Bodies"
-author: Urban Sensing and Data
+title: "HeatBodies: Urban Sensing"
+author: Hardware
 year: 2023
 image: /img/heatbodies_coverimage.png
 links:
