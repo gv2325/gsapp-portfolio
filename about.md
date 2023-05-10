@@ -12,5 +12,14 @@ Things I think about and work on: Transit Tech, Sensing, Climate Tech, and Gener
 
 I love being outdoors and spending weekends in parks or kayaking and am always happy to chat; reach me via v.george@columbia.edu 📧
 
-[^1] This website is open source. The source code can be found on GitHub. It was built with the static site generator [Eleventy](https://www.11ty.dev/docs/). 
+Links:<br/>
+[Linkedin](https://www.linkedin.com/in/george-verghese-kochukudy/)<br/>
+[Instagram](george_kochukudy)<br/>
+[Github](www.github.com/gv2325)<br/>
+
+Newsletter:<br/>
+[Substack](https://urbantechbrew.substack.com/)<br/>
+
+
+[^1] This website is open source. The source code can be found on GitHub. It was built with the static site generator [Eleventy](https://www.11ty.dev/docs/). <br/>
 [^2] Site content is written in [Markdown](https://www.markdownguide.org/)and rendered with additional support for [footnotes](https://github.com/markdown-it/markdown-it-footnote) and [implicit figures](https://github.com/arve0/markdown-it-implicit-figures). The design is typeset in Arial and Georgia.
