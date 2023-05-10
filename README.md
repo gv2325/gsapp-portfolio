@@ -1,4 +1,4 @@
-# Computational Design Practices Project Archive
+# GSAPP Project Archive
 
 This respository hosts the source code and site content for [George Verghese's](www.george-verghese.com) project archive.
 
