@@ -10,3 +10,7 @@ links:
       url: https://gsapp-cdp.github.io/archive/projects/colocate/
 ---
 ![Mapping Solar PV](/img/solarpv_coverimage.png)
+
+![Lidar Data Hillshade](/img/solarpv_hillshade.png)
+
+

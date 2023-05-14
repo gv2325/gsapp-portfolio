@@ -19,3 +19,7 @@ A lot of what we call “tech” today lies within device-level applications. Ho
 Our team chose to test what it would require to develop and design a sensor with privacy in mind. Setting out to solve this problem, we took an interest in understanding what activities and flows in our public space are like. This process required understanding how much data is needed, our end-use cases, and potential sensors.
 
 Through an iterative process, we realized that privacy through software alone was not entirely perfect, and it required a hardware level of intervention. We aimed to implement a thermal sensor built with an edge compute node that can quickly process and out binary data without ever requiring raw data storage. Using existing computer vision algorithms to create human tracks, we set out to understand and enumerate our public spaces within Avery Hall. Through experimentation and analysis, we tested and learnt of the costs and benefits of using such hardware in our public domain.
+
+### Sensor Build Out
+
+![Sensor Build](/img/senorbuild.gif)
