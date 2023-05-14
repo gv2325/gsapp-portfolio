@@ -9,7 +9,7 @@ links:
       text: Project Website
       url: https://gsapp-cdp.github.io/archive/projects/colocate/
 ---
-![Product Prototype](/img/columbiamapper_coverimage.gif)
+<img src="/img/columbiamapper_coverimage.gif" style="width:100%">
 
 ### Getting around Columbia University is hard!
 
@@ -17,3 +17,5 @@ Finding our way from one class to another is tedious and often painful in Columb
 
 
 Project description inbound.
+
+<img src="/img/columbiamapper_mobile.png" style="width:100%">
