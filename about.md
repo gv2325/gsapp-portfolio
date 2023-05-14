@@ -13,9 +13,10 @@ Things I think about and work on: Transit Tech, Sensing, Climate Tech, and Gener
 I love being outdoors and spending weekends in parks or kayaking and am always happy to chat; reach me via v.george@columbia.edu 📧
 
 Links:<br/>
-1. [Linkedin](https://www.linkedin.com/in/george-verghese-kochukudy/)<br/>
-2. [Instagram](george_kochukudy)<br/>
-3. [Github](https://github.com/gv2325)<br/>
+ [Linkedin](https://www.linkedin.com/in/george-verghese-kochukudy/)<br/>
+ [Instagram](george_kochukudy)<br/>
+ [Github](https://github.com/gv2325)<br/>
+ [Resume](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d003f929-b13b-3582-abbc-d757b8e40104)
 
 Newsletter:<br/>
 [Substack](https://urbantechbrew.substack.com/)<br/>
