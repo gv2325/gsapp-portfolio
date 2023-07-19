@@ -7,7 +7,7 @@ image: /img/columbiamapper_coverimage.gif
 links:
     -
       text: Project Website
-      url: https://gsapp-cdp.github.io/archive/projects/colocate/
+      url: https://storymaps.arcgis.com/stories/26e82fb4531c4de19584fbbe857afbb5
 ---
 <img src="/img/columbiamapper_coverimage.gif" style="width:100%">
 
