@@ -9,6 +9,6 @@ links:
       text: Restricted Access
       url: 
 ---
-<img src="/img/aoma_coverimage.png", style="width:100%">
+<img src="public\img\aoma_coverimage.png", style="width:100%">
 
-This project is currently under an NDA until June 2023.
+This project is currently under NDA until July 2023.

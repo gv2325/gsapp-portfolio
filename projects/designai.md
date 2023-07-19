@@ -13,4 +13,9 @@ links:
       url: https://design-ai.net/
 ---
 
-![Dashboard](/img/generativedesign_coverimage.gif)
+<img src="/img/generativedesign_coverimage.gif" style="width:100%">
+
+Bias: almost every step in creating the model has the potential for bias, from setting goals, to measuring outcomes, to the inputs to test. Make sure to articulate who and why you are designing for and document assumptions that you make along the way.
+
+Limitations: for everything that our computational design model is doing, there is a lot it is not doing. For example, our street grids a limited by Box Morph and we are using direct sun to buildings as a proxy for heat gain. Articulate and document limitations.
+

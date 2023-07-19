@@ -15,7 +15,8 @@ links:
 
 Finding our way from one class to another is tedious and often painful in Columbia Univeristys labyrnth like campus structure. Developed an indoor wayfinding system. 
 
-
-Project description inbound.
+Columbia Mapper is an indoor wayfinding system built to allow students explore and learn of new spaces, amenities, facts and histories of the university. 
 
 <img src="/img/columbiamapper_mobile.png" style="width:100%">
+
+Built using Niantic AR map, along with WebGL and WebXR modules to create an engaging augmented experience.

@@ -23,3 +23,5 @@ Through an iterative process, we realized that privacy through software alone wa
 ### Sensor Build Out
 
 ![Sensor Build](/img/senorbuild.gif)
+
+Read and learn more on the project website!
