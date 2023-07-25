@@ -9,8 +9,6 @@ links:
       text: Project Website
       url: https://gsapp-cdp.github.io/archive/projects/colocate/
 ---
-Solar PV Potential Mapping Using LiDAR Data
-================
 
 This project aims to map the solar PV potential of New York City using LiDAR data. The project is a collaboration between the Center for Spatial Research and the Center for Design Practice at Columbia GSAPP. The project is funded by the New York State Energy Research and Development Authority (NYSERDA) and the New York City Mayor’s Office of Sustainability (MOS).
 
@@ -30,4 +28,5 @@ Above is the Hillshade analysis to generate the triangulation model for 3D analy
 Use cases:
 
 Local Law 97 - Offset fees and cost for buildings by identifying solar or green roof opportunities.
-DAC abd FNMTCZs have additional benefits. 
+
+DAC abd FNMTCZs have additional benefits.
