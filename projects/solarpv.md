@@ -29,4 +29,4 @@ Use cases:
 
 Local Law 97 - Offset fees and cost for buildings by identifying solar or green roof opportunities.
 
-DAC abd FNMTCZs have additional benefits.
+DAC and FNMTCZs have additional benefits.
