@@ -88,3 +88,13 @@ For more information, see the [markdown-it-implicit-figures](https://github.com/
 
 This repository is automatically deployed to GitHub Pages whenever a new commit is pushed to the `main` branch, using
 a GitHub workflow, located at `.github/workflows/deploy.yml`.
+
+## Analytics
+
+This site uses [Plausible Analytics](https://plausible.io/), a privacy-friendly alternative to Google Analytics. The analytics script is loaded from the base layout template and tracks:
+- Page views
+- File downloads
+- Outbound links
+- Hash navigation
+- Custom page properties
+- Tagged events
